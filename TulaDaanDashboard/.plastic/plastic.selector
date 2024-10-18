@@ -1,0 +1,4 @@
+repository "TulaDaanDashboard@tanPSon@cloud"
+  path "/"
+    br "/main"
+    co "/main"
